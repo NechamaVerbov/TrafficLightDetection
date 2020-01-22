@@ -2,6 +2,13 @@ xt-meye-bareket-avigail-hadass-nechama created by GitHub Classroom
 
 # ExcellenTeam Mobileye Project 2019-11-05
 
+Detect traffic lights in an image and they're position in the world.
+
+The project had 3 steps:
+* Light source detection (To reduce the points that are suspected of being a traffic light).
+* Preparation of data for training and training a neuron network that identifies traffic lights.
+* Calculation of the traffic light 3D position.
+
 # Team Members:
 * Avigail Wilk
 * Hadass Wittow
